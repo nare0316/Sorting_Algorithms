@@ -24,5 +24,8 @@
    
 📎 Features:
 
-Multiple Sorting Techniques: This repository showcases a variety of sorting algorithms, ranging from simple algorithms like Bubble Sort to more efficient ones like Merge Sort and Quick Sort.
-Educational Purpose: Each algorithm is implemented with a clear structure to help understand the underlying mechanics of sorting. 3 Contributions: Feel free to fork, modify, and contribute to the repository. Improvements, bug fixes, and additional sorting algorithms are always welcome!
+1. Multiple Sorting Techniques: This repository showcases a variety of sorting algorithms, ranging from simple algorithms like Bubble Sort to more efficient ones like Merge Sort and Quick Sort.
+   
+2. Educational Purpose: Each algorithm is implemented with a clear structure to help understand the underlying mechanics of sorting.
+   
+3. Contributions: Feel free to fork, modify, and contribute to the repository. Improvements, bug fixes, and additional sorting algorithms are always welcome!

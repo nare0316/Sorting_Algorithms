@@ -11,6 +11,7 @@
 4. Merge Sort: Merge Sort is a divide and conquer algorithm. It divides the array into two halves, recursively sorts both halves, and then merges them together in sorted order. Time Complexity: O(n log n) Space Complexity: O(n)
    
 5. Quick Sort:
+   
 ▶️ QuickSort1 (Pivot = Last Element): This implementation selects the last element as the pivot and partitions the array around this pivot such that elements smaller than the pivot are on the left and elements larger are on the right.
 
 ▶️ QuickSort2 (Pivot = First Element): This implementation selects the first element as the pivot and partitions the array around this pivot.

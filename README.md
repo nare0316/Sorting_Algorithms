@@ -21,6 +21,11 @@
 6. Counting Sort: Counting Sort is a non-comparative sorting algorithm that works by counting the number of occurrences of each distinct element in the array. It uses this count information to place each element directly in its correct position in the sorted array. Time Complexity: O(n + k), where n is the number of elements and k is the range of the input. Space Complexity: O(k) for the auxiliary count array.
    
 7. Radix Sort: Radix Sort is a non-comparative sorting algorithm that sorts numbers digit by digit, starting from the least significant digit to the most significant digit. It uses a stable auxiliary sort (counting sort) on each digit. Time Complexity: O(nk) where n is the number of elements and k is the number of digits in the largest number Space Complexity: O(n)
+
+8. Heap Sort: Heap Sort is a comparison-based sorting algorithm that uses a binary heap data structure. It first builds a max heap (a complete binary tree where the value of each node is greater than or equal to its children) and then repeatedly extracts the maximum element, placing it in the correct sorted position. This process continues until all elements are sorted. Time Complexity:
+    - Best, Average, Worst: O(n log n)
+Space Complexity:
+    - O(1) (in-place sorting)
    
 📎 Features:
 
